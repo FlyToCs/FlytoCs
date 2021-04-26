@@ -7,7 +7,7 @@
 
 ![Mohammadhosein Dehghani's Github Stats](https://github-readme-stats.vercel.app/api?username=masterdehghani&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterdehghani&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterdehghani&langs_count=10&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Let's Connect 🔗
