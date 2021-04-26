@@ -17,6 +17,6 @@
 [![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=F3C25D&color=AE348F)](https://www.instagram.com/nmasterdehghani/)
 
 
-#### Languages
+### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterdehghani&layout=compact&langs_count=10&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
