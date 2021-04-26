@@ -7,6 +7,9 @@
 
 ![Mohammadhosein Dehghani's Github Stats](https://github-readme-stats.vercel.app/api?username=masterdehghani&show_icons=true&theme=vue-dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterdehghani&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Let's Connect 🔗
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)]()
