@@ -14,7 +14,7 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)]()
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)]() 
-[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=F3C25D&color=AE348F)](https://www.instagram.com/nmasterdehghani/)
+[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=F3C25D&color=AE348F)](https://www.instagram.com/masterdehghani/)
 
 
 ### Languages
