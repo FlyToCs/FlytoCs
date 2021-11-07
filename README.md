@@ -39,6 +39,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 
 
+
 <br><br><br>
 
 
@@ -46,10 +47,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=masterdehghani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterdehghani&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=masterdehghani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=jolly" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterdehghani&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=jolly"/>
 
+</p>
 
 
 
