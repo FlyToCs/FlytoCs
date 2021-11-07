@@ -11,7 +11,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=masterdehghani.mastredehghani)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I am a full-stack software engineer and writer. I love programming, writing, speaking and Walking💪.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
