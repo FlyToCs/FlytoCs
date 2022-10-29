@@ -48,7 +48,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 
 
-📈 **My GitHub Stats:**
+## ⚡ My Github Stats
 
 <p>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=drmhdehghani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=swift " />
