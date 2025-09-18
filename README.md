@@ -12,9 +12,11 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=FlyToCs.FlyToCs)
 
-I am a full-stack software engineer and designer. I love programming, speaking and exercising.
+I’m a software engineer passionate about building clean, scalable, and impactful applications.
+Currently, I focus on .NET technologies (C#, ASP.NET Core, EF Core, Dapper) and enjoy creating modern, reliable, and user-friendly solutions.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+Beyond coding, I’m interested in design, learning new technologies, and continuous self-improvement.
+Always excited to collaborate on projects that make a difference.
 
 <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="408" height="318" />
 
