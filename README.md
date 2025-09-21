@@ -16,6 +16,7 @@ I’m a software engineer passionate about building clean, scalable, and impactf
 Currently, I focus on .NET technologies (C#, ASP.NET Core, EF Core, Dapper) and enjoy creating modern, reliable, and user-friendly solutions.
 
 Beyond coding, I’m interested in design, learning new technologies, and continuous self-improvement.
+
 Always excited to collaborate on projects that make a difference.
 
 <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="408" height="318" />
