@@ -48,10 +48,7 @@ Always excited to collaborate on projects that make a difference.
 <img align="left" alt="npm" width="26px" src="https://github.com/FlyToCs/FlyToCs/blob/master/Visual_Studio.png" />
 <img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-
 <br><br><br>
-
-
 
 ## ⚡ My Github Stats
 
