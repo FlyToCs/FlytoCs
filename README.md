@@ -26,7 +26,7 @@ Always excited to collaborate on projects that make a difference.
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning on [Udemy](https://Udemy.com);
+- 📚 I’m currently learning on [Udemy](https://Udemy.com);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [Aysaweb.co](https://Aysawen.co);
 - 📫 How to reach me: dehghani.fullstack@gmail.com;
