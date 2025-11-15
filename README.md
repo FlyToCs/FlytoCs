@@ -30,7 +30,7 @@ Always excited to collaborate on projects that make a difference.
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [Aysaweb.co](https://Aysawen.co);
 - 📫 How to reach me: dehghani.fullstack@gmail.com;
-- 📝 [Resume](https://aysaweb.co).
+- 📝 [Resume](https://github.com/FlyToCs).
 
 </br>
 
